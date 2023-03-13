@@ -1,13 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <song xmlns="http://21wdh.staszic.waw.pl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://21wdh.staszic.waw.pl https://songbook.21wdw.org/song.xsd" title="Wieczór">
-	<alias></alias>
 	<text_author type="solo">Jerzy Reiser</text_author>
-	<comment></comment>
 	<composer type="solo">Jerzy Reiser</composer>
 	<artist type="band">Browar Żywiec</artist>
-	<translator></translator>
-	<original_title></original_title>
-	<lyric xmlns="http://21wdh.staszic.waw.pl">
+	<lyric>
 		<block type="verse">
 			<row important_over="true">Sp<ch a="D"/>ójrz, odchodzi n<ch a="h7"/>oc,</row>
 			<row important_over="true">Odchodzi t<ch a="e"/>am gdzie r<ch a="G"/>osną m<ch a="A"/>aki.<ch a="A4"/></row>
@@ -53,18 +49,15 @@
 	<music metre="4/4">
 		<guitar barre="0"/>
 	</music>
+	<keywords/>
 	<status>
-		<verificators><verificator>Michał Korch</verificator>
-			
-		</verificators>
-		<to_do></to_do>
-		<done>	<text/>
+		<done>
+			<text/>
 			<authors/>
 			<chords>chord positioning</chords>
 		</done>
+		<verificators>
+			<verificator>Michał Korch</verificator>
+		</verificators>
 	</status>
-	<keywords/>
-	<music_source></music_source>
-	<album></album>
-	<genre></genre>
 </song>
